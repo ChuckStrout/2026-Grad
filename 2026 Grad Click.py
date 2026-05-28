@@ -42,9 +42,9 @@ venue = st.radio("Select Venue", venue_options, horizontal=True)
 
 
 if venue == "In PAC":
-    background_color = "#535349"  # light brown
+    background_color = "#CECEC9"  # light brown
 elif venue == "On Turf":
-    background_color = "#c00707"  # light green
+    background_color = "#e93434"  # light green
 else:
     background_color = "#cc2222"
 
