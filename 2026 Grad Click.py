@@ -42,9 +42,9 @@ venue = st.radio("Select Venue", venue_options, horizontal=True)
 
 
 if venue == "In PAC":
-    background_color = "#eeea04"  # light brown
+    background_color = "#535349"  # light brown
 elif venue == "On Turf":
-    background_color = "#16ce16"  # light green
+    background_color = "#c00707"  # light green
 else:
     background_color = "#cc2222"
 
@@ -163,5 +163,5 @@ st.text(f"")
 st.text(f"")
 st.text(f"")
 st.text(f"")
-
-st.text("v05282610:00")
+st.text("FINAL VERSION")
+st.text("v05282612:32")
