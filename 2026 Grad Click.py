@@ -46,7 +46,7 @@ if venue == "In PAC":
 elif venue == "On Turf":
     background_color = "#f36666"  # on Field
 else:
-    background_color = "#cc2222"
+    background_color = "#f13131"
 
 st.markdown(
     f"""
